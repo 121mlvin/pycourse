@@ -1,1 +1,3 @@
-asdasd
+##################################
+PYTHON COURSES HOMEWORK REPOSITORY
+##################################
